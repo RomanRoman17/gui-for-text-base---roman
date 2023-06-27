@@ -1,0 +1,103 @@
+Category = Gaming
+Name = Core i7-8700K
+Price = 359.99
+Manufacturer = Intel
+Image = images/i7-8700k.jpg
+
+Category = Gaming
+Name = RTX 2080 Ti
+Price = 1199.99
+Manufacturer = Nvidia
+Image = images/2080Ti.PNG
+
+
+Category = Gaming
+Name = Alienware Gaming Monitor
+Price = 199.99
+Manufacturer = Dell
+Image = images/alienware gaming monitor.jpg
+
+
+Category = Gaming
+Name = PRO KEYBOARD
+Price = 199.99
+Manufacturer = Logitech
+Image = images/PRO KEYBOARD.PNG
+
+
+Category = Gaming
+Name = G502 X Gaming Mouse
+Price = 39.99
+Manufacturer = Logitech
+Image = images/logitech mouse.PNG
+
+
+
+Category = Office
+Name = MARKUS
+Price = 199.99
+Manufacturer = Ikea
+Image = images/MARKUS.PNG
+
+
+Category = Office
+Name = LAGKAPTEN
+Price = 199.99
+Manufacturer = Ikea
+Image = images/LAGKAPTEN.PNG
+
+
+Category = Office
+Name = TROTTEN
+Price = 179.00
+Manufacturer = Ikea
+Image = images/TROTTEN.PNG
+
+
+Category = Office
+Name = Stapler
+Price = 19.99
+Manufacturer = Staples
+Image = images/stapler.PNG
+
+
+Category = Office
+Name = Paper 5000pc
+Price = 89.95
+Manufacturer = Steadler
+Image = images/5000 pc paper.PNG
+
+
+Category = Groceries
+Name = Carrot
+Price = 3.97
+Manufacturer = Canada Farms
+Image = images/Carrots.jpg
+
+
+Category = Groceries
+Name = Eggs
+Price = 12.97
+Manufacturer = Canada Farms
+Image = images/EGGS.PNG
+ 
+
+Category = Groceries
+Name = Skim Milk 1.5L
+Price = 4.57
+Manufacturer = Fairlife
+Image = images/skim milk.PNG
+
+
+Category = Groceries
+Name = Monster Ultra 24pk
+Price = 54.95
+Manufacturer = Monster Energy
+Image = images/monster.PNG
+
+
+Category = Groceries
+Name = Ground Beef 2kg
+Price = 32.50
+Manufacturer = Canadian Meat Farms
+Image = images/groundbeef.PNG

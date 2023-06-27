@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="signupController">
+   <children>
+      <Text layoutX="98.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SIGN UP TO ROMAZON!" textAlignment="CENTER" wrappingWidth="404.955078125">
+         <font>
+            <Font name="System Bold" size="27.0" />
+         </font>
+      </Text>
+      <TextField fx:id="userMake" layoutX="226.0" layoutY="130.0" />
+      <TextField fx:id="passMake" layoutX="226.0" layoutY="221.0" />
+      <Text layoutX="253.0" layoutY="126.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Make a Username" />
+      <Text layoutX="254.0" layoutY="213.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Make a Password" />
+      <Button fx:id="backtoLogin" layoutX="240.0" layoutY="345.0" mnemonicParsing="false" onAction="#backtoLogin" text="Back to Login Menu" />
+      <Button fx:id="submitNewAcc" layoutX="236.0" layoutY="273.0" mnemonicParsing="false" onAction="#submitNewAcc" text="Create New Account!" />
+      <ImageView fitHeight="102.0" fitWidth="207.0" layoutX="14.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/welcome.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="195.0" fitWidth="256.0" layoutX="14.0" layoutY="195.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/enjoy%20your%20stay.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

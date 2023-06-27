@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<BorderPane xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cartController">
+   <center>
+      <VBox fx:id="vboxCart" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" />
+   </center>
+   <top>
+      <Button fx:id="menuButtonCart" mnemonicParsing="false" onAction="#backtoMain" prefHeight="25.0" prefWidth="599.0" text="Back To Main Menu" BorderPane.alignment="CENTER" />
+   </top>
+</BorderPane>
